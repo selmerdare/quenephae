@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://koagoozod.les-leach.com/sitemap.xml
